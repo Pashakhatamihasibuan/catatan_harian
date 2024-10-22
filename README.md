@@ -1,16 +1,19 @@
 # app_catatan_harian
 
-A new Flutter project.
+[Image of the design]
 
-## Getting Started
+<img width="250" alt="Home" src="https://github.com/Pashakhatamihasibuan/catatan_harian/blob/main/figma/Home.png"> <img width="250" alt="login" src="https://github.com/Pashakhatamihasibuan/catatan_harian/blob/main/figma/Login.png">
 
-This project is a starting point for a Flutter application.
+<img width="250" alt="Register" src="https://github.com/Pashakhatamihasibuan/catatan_harian/blob/main/figma/Register.png"> <img width="250" alt="add note" src="https://github.com/Pashakhatamihasibuan/catatan_harian/blob/main/figma/add_note.png">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="250" alt="after add" src="https://github.com/Pashakhatamihasibuan/catatan_harian/blob/main/figma/after_add.png"> <img width="250" alt="Splash Screen" src="https://github.com/Pashakhatamihasibuan/catatan_harian/blob/main/assets/images/splash_screen.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Package yang digunakan
+- google_fonts
+- getX
+- shared_preferences
+- flutter_native_splash
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashakhatamihsb/)
